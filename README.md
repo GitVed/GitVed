@@ -1,29 +1,36 @@
 # Hi, I'm Ved Patel 👋
 
-## Computer Science @ UofT | Cybersecurity Enthusiast
+**Computer Science @ UofT Scarborough** | Cybersecurity Enthusiast
 
-Currently a freshman at the University of Toronto Scarborough studying Computer Science. While studying and building my knowledge in Computer Science, I heavily immerse myself in cybersecurity.
-I love learning and expanding my knowledge to be more aware of the improving and emerging technology. I am currently developing my understanding of SOC and cloud security, building skills to position myself in the cloud security field. 
-Always open to connecting and talking about anything in our ever-evolving tech field.
+Freshman specializing in blue team security and cloud operations. Building my path toward becoming a SOC analyst with hands-on Azure projects and industry certifications.
 
-### 📂 Featured Projects
-- 👁️ [H.A.N.D.S](https://github.com/GitVed/H.A.N.D.S) (A Braille Navigation Device) 
+🌐 **Portfolio:** [GitVed.github.io](https://GitVed.github.io) ← Full portfolio here
 
-### 📚 Learning Journey
-Currently documenting my path in cybersecurity to become a SOC analyst and later a role in cloud security. 
-Check out my 
-[learning journal](https://github.com/GitVed/learning-journal) to see my weekly progress.
+---
 
-### 🏢 Employment status 
-🟡 Seeking a Summer 2026 internship in any tech related role (preferably cybersecurity analyst, SWE, IT, etc.)
+## 🔧 Current Focus
+- 📚 Microsoft Cybersecurity Analyst Professional Certificate
+- ☁️ Learning Azure Sentinel & cloud security
+- 🎯 Building SOC analyst skills with hands-on projects
 
-### 🛡️ Certifications
-- [Google Cybersecurity Professional Certificate](https://coursera.org/share/6d084bf53da16338f94a3148a66bb3e3)
-- Microsoft Cybersecurity Analyst Professional Certificate (In progress)
+## 📂 Featured Projects
+- 👁️ **[H.A.N.D.S](https://github.com/GitVed/H.A.N.D.S)** - Braille navigation device
+- 📖 **[Learning Journal](https://github.com/GitVed/learning-journal)** - Documenting my cybersecurity journey
+- 🔜 Azure security projects coming soon
 
-Planned to complete in the future.
-- CompTIA
-- SC-900
+## 🛡️ Certifications
+✅ Google Cybersecurity Professional  
+🔄 Microsoft Cybersecurity Analyst (In Progress)  
+📅 Security+, SC-900, SC-200 (Planned 2025)
 
-### 📫 Connect With Me!
-[LinkedIn](https://www.linkedin.com/in/ved-patel-vvv)
+## 🟡 Internship Status
+Seeking **Summer 2026** roles in cybersecurity, cloud security, or SOC operations
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ved-patel-vvv)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://GitVed.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelv2529@gmail.com)
+
+---
+
+💡 *Check out my [full portfolio](https://GitVed.github.io) for detailed project writeups and more!*

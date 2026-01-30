@@ -12,7 +12,7 @@ Always open to connecting and talking about anything in our ever-evolving tech f
 ### 📚 Learning Journey
 Currently documenting my path in cybersecurity to become a SOC analyst and later a role in cloud security. 
 Check out my 
-[learning journal](link-to-learning-journal-repo) to see my weekly progress.
+[learning journal](https://github.com/GitVed/learning-journal) to see my weekly progress.
 
 ### 🏢 Employment status 
 🟡 Seeking a Summer 2026 internship in any tech related role (preferably cybersecurity analyst, SWE, IT, etc.)

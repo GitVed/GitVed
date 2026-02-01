@@ -10,6 +10,7 @@ Freshman specializing in blue team security and cloud operations. Building my pa
 
 ## 🔧 Current Focus
 - 📚 Microsoft Cybersecurity Analyst Professional Certificate
+- 🤖 Creating an Cybersecurity newsletter involving AI.
 - ☁️ Learning Azure Sentinel & cloud security
 - 🎯 Building SOC analyst skills with hands-on projects
 
